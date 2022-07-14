@@ -1,7 +1,7 @@
 # [MICCAI22] ReMix: A General and Efficient Framework for Multiple Instance Learning based Whole Slide Image Classification
 
 This repository holds the Pytorch implementation for the ReMix augmentation described in the paper 
-> [**ReMix: A General and Efficient Framework for Multiple Instance Learning based Whole Slide Image Classification**](tbd),  
+> [**ReMix: A General and Efficient Framework for Multiple Instance Learning based Whole Slide Image Classification**](https://arxiv.org/abs/2207.01805),  
 > Jiawei Yang, Hanbo Chen, Yu Zhao, Fan Yang,  Yao Zhang, Lei He, and Jianhua Yao    
 > International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022 
 
